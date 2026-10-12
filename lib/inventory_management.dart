@@ -1,0 +1,9 @@
+export 'cli/inventory_cli.dart';
+export 'exceptions/inventory_exception.dart';
+export 'models/category.dart';
+export 'models/product.dart';
+export 'repositories/data_store.dart';
+export 'repositories/inventory_repository.dart';
+export 'services/inventory_service.dart';
+export 'services/stock_monitor_service.dart';
+export 'services/storage_service.dart';

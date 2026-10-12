@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0000001",
+    "name": "Mouse",
+    "description": "I want too",
+    "categoryId": "001",
+    "price": 34000.0,
+    "quantity": 23,
+    "lowStockThreshold": 2
+  },
+  {
+    "id": "0002",
+    "name": "Keyboard",
+    "description": "For typing",
+    "categoryId": "2",
+    "price": 15000.0,
+    "quantity": 25,
+    "lowStockThreshold": 10
+  }
+]
